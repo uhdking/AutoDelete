@@ -27,4 +27,4 @@ CHATS        = [int(cht) for cht in os.environ.get("CHATS", "-1001655485024").sp
 WHITE_LIST   = [int(wht) for wht in os.environ.get("WHITE_LIST", "").split()]
 BLACK_LIST   = [int(blk) for blk in os.environ.get("BLACK_LIST", "").split()]
 DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://uhdprime:uhdprime@cluster0.w3sxrux.mongodb.net/?retryWrites=true&w=majority")
-PORT         = os.environ.get("PORT", "80")
+PORT         = os.environ.get("PORT", "8080")
