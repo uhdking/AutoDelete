@@ -28,7 +28,7 @@ You can fork and deploy this bot on any server (Render, Koyeb, Railway, Heroku..
 
 <details><summary>Koyeb</summary>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/arun017s/AutoDelete">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/uhdking/AutoDelete">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
 </a>
 <br>
